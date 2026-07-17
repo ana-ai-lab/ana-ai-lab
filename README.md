@@ -13,4 +13,27 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->## 🚀 Enfoque del laboratorio  
+Este espacio está dedicado a:  
+- Pruebas de modelos de IA generativa  
+- Automatización con IA aplicada a sistemas  
+- Experimentos con Copilot y herramientas de Microsoft  
+- Documentación de aprendizaje y evolución técnica  
+- Scripts y prototipos orientados a IA  
+
+## 🔮 Roadmap de IA  
+Este laboratorio evolucionará con nuevos experimentos y proyectos centrados en Inteligencia Artificial:  
+- Implementación de flujos de trabajo inteligentes con IA  
+- Pruebas de modelos generativos y análisis de resultados  
+- Automatización de tareas técnicas mediante IA  
+- Integración de IA en procesos de Ingeniería de Sistemas  
+- Documentación continua del aprendizaje y mejoras  
+- Creación de prototipos y herramientas basadas en IA  
+
+## 🤖 Próximos pasos  
+- Añadir primeros experimentos de IA  
+- Crear estructura inicial de carpetas  
+- Subir scripts de automatización  
+- Documentar pruebas y resultados  
+- Explorar nuevas herramientas de IA  
+
