@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-Este repositorio documenta mi aprendizaje práctico en Inteligencia Artificial aplicada a la gestión de proyectos, productividad y automatización. Cada laboratorio refleja un experimento real, los resultados obtenidos y las lecciones aprendidas, con el objetivo de construir un portfolio profesional que demuestre la aplicación práctica de la IA en proyectos reales y casos de uso.
--->## 🚀 Enfoque del laboratorio  
+-->## Este repositorio documenta mi aprendizaje práctico en Inteligencia Artificial aplicada a la gestión de proyectos, productividad y automatización. Cada laboratorio refleja un experimento real, los resultados obtenidos y las lecciones aprendidas, con el objetivo de construir un portfolio profesional que demuestre la aplicación práctica de la IA en proyectos reales y casos de uso.
+    🚀 Enfoque del laboratorio  
 Este espacio está dedicado a:  
 - Pruebas de modelos de IA generativa  
 - Automatización con IA aplicada a sistemas  
