@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 Este espacio está dedicado a:  
 - Pruebas de modelos de IA generativa  
 - Automatización con IA aplicada a sistemas  
-- Experimentos con Copilot y herramientas de Microsoft  
 - Documentación de aprendizaje y evolución técnica  
 - Scripts y prototipos orientados a IA  
 
